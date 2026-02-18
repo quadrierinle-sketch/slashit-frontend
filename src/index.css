@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Force a white background so we can see the text */
+body {
+  background-color: #ffffff;
+  color: #000000;
+}
